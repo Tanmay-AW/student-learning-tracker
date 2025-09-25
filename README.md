@@ -1,6 +1,6 @@
 # SuperKalam Student Learning Tracker
 
-🚀 **Live Demo**: [Add Vercel Link Here]   
+🚀 **Live Demo**: [https://student-learning-tracker.vercel.app]   
 
 A hybrid **Learning Tracker + Student Dashboard** built with **Next.js, TypeScript, and Tailwind CSS**.  
 Tracks skill progress, coding streaks, and personal milestones — inspired by SuperKalam’s vision of personalized learning.  
