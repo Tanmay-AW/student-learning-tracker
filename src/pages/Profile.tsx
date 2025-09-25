@@ -194,7 +194,7 @@ const Profile = () => {
                       </Button>
                     </div>
                     <Button size="sm" variant="outline" className="w-full mt-2" asChild>
-                      <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+                      <a href="/Tanmay_Gunwant_Resume.pdf" target="_blank" rel="noopener noreferrer">
                         <Download className="h-4 w-4 mr-2" />
                         Download Resume
                       </a>

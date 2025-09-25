@@ -198,7 +198,7 @@ const Settings = () => {
                               </p>
                             </div>
                             <Button variant="outline" size="sm" asChild>
-                              <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+                              <a href="/Tanmay_Gunwant_Resume.pdf" target="_blank" rel="noopener noreferrer">
                                 <Download className="h-4 w-4 mr-2" />
                                 Download
                               </a>
